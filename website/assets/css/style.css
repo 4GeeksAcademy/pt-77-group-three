@@ -57,3 +57,6 @@ img {
 .header {
     margin-top: 50px;
 }
+.img {
+    display: flex;
+}
